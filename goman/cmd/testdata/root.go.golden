@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gostores/goman"
-	"github.com/gostores/homedir"
-	"github.com/gostores/configurator"
+	"github.com/govenue/goman"
+	"github.com/govenue/homedir"
+	"github.com/govenue/configurator"
 )
 
 var cfgFile string

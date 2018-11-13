@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/gostores/goman"
-	"github.com/gostores/goman/doc"
+	"github.com/govenue/goman"
+	"github.com/govenue/goman/doc"
 )
 
 func ExampleGenManTree() {

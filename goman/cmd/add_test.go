@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gostores/configurator"
+	"github.com/govenue/configurator"
 )
 
 // in GOPATH, adds "test" command
@@ -15,7 +15,7 @@ import (
 // with appropriate golden files.
 // Use -update to update existing golden files.
 func TestGoldenAddCmd(t *testing.T) {
-	projectName := "github.com/gostores/testproject"
+	projectName := "github.com/govenue/testproject"
 	project := NewProject(projectName)
 	defer os.RemoveAll(project.AbsPath())
 

@@ -3,7 +3,7 @@ package doc
 import (
 	"strings"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 // Test to see if we have a reason to print See Also information in docs

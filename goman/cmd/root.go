@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/gostores/configurator"
-	"github.com/gostores/goman"
-	"github.com/gostores/homedir"
+	"github.com/govenue/configurator"
+	"github.com/govenue/goman"
+	"github.com/govenue/homedir"
 )
 
 var (

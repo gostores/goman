@@ -1,7 +1,7 @@
 package md2man
 
 import (
-	"github.com/gostores/encoding/markdown"
+	"github.com/govenue/encoding/markdown"
 )
 
 func Render(doc []byte) []byte {

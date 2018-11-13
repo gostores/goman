@@ -1,6 +1,6 @@
 package main
 
-import "github.com/gostores/goman/goman/cmd"
+import "github.com/govenue/goman/goman/cmd"
 
 func main() {
 	cmd.Execute()

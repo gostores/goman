@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	flag "github.com/gostores/pflag"
+	flag "github.com/govenue/pflag"
 )
 
 // Command is just that, a command for your application.

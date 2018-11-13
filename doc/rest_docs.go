@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 func printOptionsReST(buf *bytes.Buffer, cmd *goman.Command, name string) error {

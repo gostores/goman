@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 func TestGenRSTDoc(t *testing.T) {

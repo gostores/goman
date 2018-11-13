@@ -6,8 +6,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/gostores/configurator"
-	"github.com/gostores/goman"
+	"github.com/govenue/configurator"
+	"github.com/govenue/goman"
 )
 
 var initCmd = &goman.Command{
@@ -130,9 +130,9 @@ import (
 	"fmt"
 	"os"
 {{if .configurator}}
-	"github.com/gostores/homedir"{{end}}
-	"github.com/gostores/goman"{{if .configurator}}
-	"github.com/gostores/configurator"{{end}}
+	"github.com/govenue/homedir"{{end}}
+	"github.com/govenue/goman"{{if .configurator}}
+	"github.com/govenue/configurator"{{end}}
 ){{if .configurator}}
 
 var cfgFile string{{end}}

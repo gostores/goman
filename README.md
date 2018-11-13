@@ -5,7 +5,7 @@
 
 ## Install
 ```
-go get github.com/gostores/goman
+go get github.com/govenue/goman
 ```
 
 ## How to use

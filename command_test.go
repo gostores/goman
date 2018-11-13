@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gostores/pflag"
+	"github.com/govenue/pflag"
 )
 
 func emptyRun(*Command, []string) {}

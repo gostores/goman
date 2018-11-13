@@ -17,7 +17,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 // testCmd represents the test command

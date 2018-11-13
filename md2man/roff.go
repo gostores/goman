@@ -6,7 +6,7 @@ import (
 	"html"
 	"strings"
 
-	"github.com/gostores/encoding/markdown"
+	"github.com/govenue/encoding/markdown"
 )
 
 type roffRenderer struct{}

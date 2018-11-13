@@ -8,8 +8,8 @@ package main
 import (
 	"log"
 
-	"github.com/gostores/goman"
-	"github.com/gostores/goman/doc"
+	"github.com/govenue/goman"
+	"github.com/govenue/goman/doc"
 )
 
 func main() {
@@ -41,7 +41,7 @@ import (
 	"k8s.io/kubernetes/pkg/kubectl/cmd"
 	cmdutil "k8s.io/kubernetes/pkg/kubectl/cmd/util"
 
-	"github.com/gostores/goman/doc"
+	"github.com/govenue/goman/doc"
 )
 
 func main() {

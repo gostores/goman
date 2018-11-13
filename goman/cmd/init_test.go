@@ -7,11 +7,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gostores/configurator"
+	"github.com/govenue/configurator"
 )
 
 func TestGoldenInitCmd(t *testing.T) {
-	projectName := "github.com/gostores/testproject"
+	projectName := "github.com/govenue/testproject"
 	project := NewProject(projectName)
 	defer os.RemoveAll(project.AbsPath())
 

@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gostores/goman"
-	"github.com/gostores/goman/md2man"
-	"github.com/gostores/pflag"
+	"github.com/govenue/goman"
+	"github.com/govenue/goman/md2man"
+	"github.com/govenue/pflag"
 )
 
 // GenManTree will generate a man page for this command and all descendants

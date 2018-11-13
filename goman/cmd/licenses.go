@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gostores/configurator"
+	"github.com/govenue/configurator"
 )
 
 // Licenses contains all possible licenses a user can choose from.

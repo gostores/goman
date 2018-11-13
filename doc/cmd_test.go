@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 func emptyRun(*goman.Command, []string) {}

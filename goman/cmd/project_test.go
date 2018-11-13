@@ -5,7 +5,7 @@ import (
 )
 
 func TestFindExistingPackage(t *testing.T) {
-	path := findPackage("github.com/gostores/goman")
+	path := findPackage("github.com/govenue/goman")
 	if path == "" {
 		t.Fatal("findPackage didn't find the existing package")
 	}

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"unicode"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 func init() {
@@ -114,7 +114,7 @@ package {{.cmdPackage}}
 import (
 	"fmt"
 
-	"github.com/gostores/goman"
+	"github.com/govenue/goman"
 )
 
 // {{.cmdName}}Cmd represents the {{.cmdName}} command

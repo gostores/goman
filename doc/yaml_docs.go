@@ -8,9 +8,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/gostores/encoding/yaml"
-	"github.com/gostores/goman"
-	"github.com/gostores/pflag"
+	"github.com/govenue/encoding/yaml"
+	"github.com/govenue/goman"
+	"github.com/govenue/pflag"
 )
 
 type cmdOption struct {
